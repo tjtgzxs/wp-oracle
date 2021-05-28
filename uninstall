@@ -1,0 +1,2 @@
+#!/bin/bash
+rm -rf /usr/local/phpstudy/soft/wordpress/wordpress-5.3.2
